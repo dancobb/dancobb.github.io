@@ -4,7 +4,7 @@ https://keybase.io/dancobb
 
 I hereby claim:
 
-  * I am an admin of http://dancobb.com
+  * I am an admin of http://www.dancobb.com
   * I am dancobb (https://keybase.io/dancobb) on keybase.
   * I have a public key ASDa1G48N_M_eQYzYuLI4n8e67H9OCiyoo-SCMNyMyo5Jgo
 
@@ -20,7 +20,7 @@ To do so, I am signing this object:
             "username": "dancobb"
         },
         "service": {
-            "hostname": "dancobb.com",
+            "hostname": "www.dancobb.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",
@@ -30,21 +30,21 @@ To do so, I am signing this object:
         "name": "keybase.io go client",
         "version": "1.0.14"
     },
-    "ctime": 1458311826,
+    "ctime": 1458312166,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1458311803,
-        "hash": "7b3de508c2021709f0f03a2f279af993bd5011061e18569c9822bccbdef49f5f27fb1d76a1947dd83c46b25f12a8b87988ed015bd5fd4c4ec83abd67fde80a13",
-        "seqno": 412246
+        "ctime": 1458312101,
+        "hash": "dd7ff91ef9e9a55a7706551094f5e514feba97c522d2b066707cd4b8ae5b8151e019a501a3a52ce94ff89f0182e1c32a610705efe89b905638a1472ff9085b0a",
+        "seqno": 412258
     },
-    "prev": "411c8d55ec70888c707bd536d4bf7f427e778fdddd017cdf8f2628383b7ddb7b",
-    "seqno": 7,
+    "prev": "fea1fc062adab43e4faa54c9a64651796f62bec63978b7de1eaef7d5c7a67915",
+    "seqno": 8,
     "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2tRuPDfzP3kGM2LiyOJ/Huux/TgosqKPkgjDcjMqOSYKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGFkNDZlM2MzN2YzM2Y3OTA2MzM2MmUyYzhlMjdmMWVlYmIxZmQzODI4YjJhMjhmOTIwOGMzNzIzMzJhMzkyNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGFkNDZlM2MzN2YzM2Y3OTA2MzM2MmUyYzhlMjdmMWVlYmIxZmQzODI4YjJhMjhmOTIwOGMzNzIzMzJhMzkyNjBhIiwidWlkIjoiNzhlMDVhZmRjNGY4MmFiZjAwOWEzNDEyZmY5Njg5MTkiLCJ1c2VybmFtZSI6ImRhbmNvYmIifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhbmNvYmIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1ODMxMTgyNiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU4MzExODAzLCJoYXNoIjoiN2IzZGU1MDhjMjAyMTcwOWYwZjAzYTJmMjc5YWY5OTNiZDUwMTEwNjFlMTg1NjljOTgyMmJjY2JkZWY0OWY1ZjI3ZmIxZDc2YTE5NDdkZDgzYzQ2YjI1ZjEyYThiODc5ODhlZDAxNWJkNWZkNGM0ZWM4M2FiZDY3ZmRlODBhMTMiLCJzZXFubyI6NDEyMjQ2fSwicHJldiI6IjQxMWM4ZDU1ZWM3MDg4OGM3MDdiZDUzNmQ0YmY3ZjQyN2U3NzhmZGRkZDAxN2NkZjhmMjYyODM4M2I3ZGRiN2IiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBN+J023Hg1hx8wICe3wXQbub9qPnbsaQhPBGyGjNJ8Zr65hWJou/BU5lqebj3Vw3c2zG07HfMGcW1WVGmHODUIqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2tRuPDfzP3kGM2LiyOJ/Huux/TgosqKPkgjDcjMqOSYKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGFkNDZlM2MzN2YzM2Y3OTA2MzM2MmUyYzhlMjdmMWVlYmIxZmQzODI4YjJhMjhmOTIwOGMzNzIzMzJhMzkyNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGFkNDZlM2MzN2YzM2Y3OTA2MzM2MmUyYzhlMjdmMWVlYmIxZmQzODI4YjJhMjhmOTIwOGMzNzIzMzJhMzkyNjBhIiwidWlkIjoiNzhlMDVhZmRjNGY4MmFiZjAwOWEzNDEyZmY5Njg5MTkiLCJ1c2VybmFtZSI6ImRhbmNvYmIifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5kYW5jb2JiLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NTgzMTIxNjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1ODMxMjEwMSwiaGFzaCI6ImRkN2ZmOTFlZjllOWE1NWE3NzA2NTUxMDk0ZjVlNTE0ZmViYTk3YzUyMmQyYjA2NjcwN2NkNGI4YWU1YjgxNTFlMDE5YTUwMWEzYTUyY2U5NGZmODlmMDE4MmUxYzMyYTYxMDcwNWVmZTg5YjkwNTYzOGExNDcyZmY5MDg1YjBhIiwic2Vxbm8iOjQxMjI1OH0sInByZXYiOiJmZWExZmMwNjJhZGFiNDNlNGZhYTU0YzlhNjQ2NTE3OTZmNjJiZWM2Mzk3OGI3ZGUxZWFlZjdkNWM3YTY3OTE1Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA0icJ1p4m23T+dl8fYwo3X80pw1UZy24Ro8HGPw2jPuvs9aZWbQYh9Jg/7MJw2G+Puor8dNELUZohDYB+XrCXC6hzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
