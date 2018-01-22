@@ -1,11 +1,16 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="dcobb15"><a class="LI-simple-link" href='https://www.linkedin.com/in/dcobb15?trk=profile-badge'>Dan Cobb</a></div>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<br>
+<br>
+<br>
+<br>
+<br>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="dcobb15"><a class="LI-simple-link" href='https://www.linkedin.com/in/dcobb15?trk=profile-badge'>Dan Cobb</a></div>
