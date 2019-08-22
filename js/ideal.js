@@ -65,3 +65,43 @@ form.addEventListener('submit', function(event) {
     }
   });
 });
+    var wrapper = document.querySelector('.wrapper');
+    var resetButton = wrapper.querySelector('a.reset');
+
+    var loadingTimeout;
+    function showLoading() {
+      clearTimeout(loadingTimeout);
+      loadingTimeout = setTimeout(function () {
+        wrapper.classList.add('submitting');
+      }, 50);
+    }
+
+    function stopLoading() {
+      clearTimeout(loadingTimeout);
+      loadingTimeout = setTimeout(function () {
+        wrapper.classList.remove('submitting');
+      }, 50);
+    }
+
+    resetButton.addEventListener('click', function(e) {
+      e.preventDefault();
+
+      // Resetting the form (instead of setting the value to `''` for each input)
+      // helps us clear webkit autofill styles.
+      form.reset();
+
+      // Clear Element.
+      idealBank.clear();
+
+      // Reset error state as well.
+      errorMessage.textContent = '';
+
+      wrapper.classList.remove('submitted');
+    });
+
+    function stripeSourceHandler(source) {
+      wrapper.querySelector('#source').textContent = source.id;
+      wrapper.classList.add('submitted');
+      wrapper.classList.remove('submitting');
+    }
+&lt;/script&gt;&lt;/html&gt;
