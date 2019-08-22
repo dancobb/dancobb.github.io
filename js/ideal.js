@@ -1,6 +1,6 @@
 // Create a Stripe client.
 // Note: this merchant has been set up for demo purposes.
-var stripe = Stripe('pk_test_6pRNASCoBOKtIshFeQd4XMUh');
+var stripe = Stripe('pk_test_JMD2WKEKWK91h41EmB4Jm3hq00hDbzlJbz');
 
 // Create an instance of Elements.
 var elements = stripe.elements();
