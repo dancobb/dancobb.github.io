@@ -65,7 +65,7 @@ form.addEventListener('submit', function(event) {
     }
   });
 });
-    var wrapper = document.querySelector('.wrapper');
+    var wrapper = document.querySelector('.site-wrapper');
     var resetButton = wrapper.querySelector('a.reset');
 
     var loadingTimeout;
