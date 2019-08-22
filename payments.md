@@ -3,7 +3,6 @@ layout: default
 ---
 
 <script src="https://js.stripe.com/v3/"></script>
-<script src="/js/ideal.js"></script>
 
 <form id="payment-form">
   <div class="form-row">
@@ -27,3 +26,5 @@ layout: default
   <!-- Used to display form errors. -->
     <div id="error-message" role="alert"></div>
 </form>
+
+<script src="/js/ideal.js"></script>
