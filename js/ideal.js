@@ -104,4 +104,3 @@ form.addEventListener('submit', function(event) {
       wrapper.classList.add('submitted');
       wrapper.classList.remove('submitting');
     }
-&lt;/script&gt;&lt;/html&gt;
