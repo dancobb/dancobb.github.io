@@ -4,27 +4,18 @@ layout: default
 
 <script src="https://js.stripe.com/v3/"></script>
 
-<form id="payment-form">
+<form action="/charge" method="post" id="payment-form">
   <div class="form-row">
-    <label for="name">
-      Name
+    <label for="card-element">
+      Credit or debit card
     </label>
-    <input id="name" name="name" placeholder="Dan Cobb" required>
-  </div>
-
-  <div class="form-row">
-    <label for="ideal-bank-element">
-      iDEAL Bank
-    </label>
-    <div id="ideal-bank-element">
+    <div id="card-element">
       <!-- A Stripe Element will be inserted here. -->
     </div>
+
+    <!-- Used to display form errors. -->
+    <div id="card-errors" role="alert"></div>
   </div>
 
   <button>Submit Payment</button>
-
-  <!-- Used to display form errors. -->
-    <div id="error-message" role="alert"></div>
 </form>
-
-<script src="/js/ideal.js"></script>
