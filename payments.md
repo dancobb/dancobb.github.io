@@ -48,4 +48,5 @@ layout: default
         </div>
       </div>
 
+<script src="js/index.js" data-rel-js></script>
 <script src="js/example4.js" data-rel-js></script>
